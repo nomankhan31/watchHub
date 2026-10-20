@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Classic Chronograph",
+    "brand": "WatchHub",
+    "category": "Chronograph",
+    "description": "A refined stainless-steel watch for everyday wear.",
+    "imageUrl": "https://placehold.co/800x800/png?text=Classic+Chronograph",
+    "imageUrls": [
+      "https://placehold.co/800x800/png?text=Classic+Chronograph"
+    ],
+    "price": 18500,
+    "oldPrice": 22000,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "stock": 12,
+    "specifications": [
+      "Stainless steel case",
+      "Water resistance: 5 ATM",
+      "Quartz movement"
+    ],
+    "active": true
+  },
+  {
+    "name": "Minimal Black",
+    "brand": "WatchHub",
+    "category": "Minimal",
+    "description": "A clean minimalist dial with a comfortable strap.",
+    "imageUrl": "https://placehold.co/800x800/png?text=Minimal+Black",
+    "imageUrls": [
+      "https://placehold.co/800x800/png?text=Minimal+Black"
+    ],
+    "price": 12500,
+    "oldPrice": 15000,
+    "rating": 4.5,
+    "reviewCount": 12,
+    "stock": 8,
+    "specifications": [
+      "Minimal dial",
+      "Durable strap",
+      "Quartz movement"
+    ],
+    "active": true
+  },
+  {
+    "name": "Gold Edition",
+    "brand": "WatchHub",
+    "category": "Luxury",
+    "description": "A statement gold-tone watch for special occasions.",
+    "imageUrl": "https://placehold.co/800x800/png?text=Gold+Edition",
+    "imageUrls": [
+      "https://placehold.co/800x800/png?text=Gold+Edition"
+    ],
+    "price": 24500,
+    "oldPrice": 28000,
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 5,
+    "specifications": [
+      "Gold-tone finish",
+      "Stainless steel",
+      "Quartz movement"
+    ],
+    "active": true
+  }
+]
